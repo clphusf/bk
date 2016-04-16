@@ -1,4 +1,4 @@
-NOD32-BOT is new and best bot.
+DIMON-BOT is new and best bot.
 _________________________________________________________________________________
 for install  
 ```bash
@@ -49,6 +49,6 @@ HOW DO MAKE UPDATE THIS FILE?
 see this git https://github.com/BH-YAGHI/tg.git
 
 ---------------------------------------------------------------------------------
-channel : https://telegram.me/Nod32team
+channel : https://telegram.me/DIMON_TEAM
 
-developer : https://telegram.me/Behroozyaghi
+developer : https://telegram.me/TELE_DIMON
